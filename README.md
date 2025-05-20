@@ -22,6 +22,9 @@ This project predicts patient readmission risks within 30 days using a 1-million
 
 🔹 All data is synthetic, designed for demonstration and learning purposes.  
 
+![REPORT](https://github.com/user-attachments/assets/f7025422-fa5e-4e1c-a21e-0e22913e3029)
+
+
 ## Business Challenge
 Healthcare providers face:  
 
